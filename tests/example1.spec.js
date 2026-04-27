@@ -3,11 +3,7 @@ import { test, expect } from '@playwright/test';
 
 test('has title', async ({ page }) => {
   await page.goto('https://playwright.dev/');
-
-<<<<<<< HEAD
-
-=======
->>>>>>> parent of 404b441 (Remove duplicate title expectation in tests)
+  
   // Expect a title "to contain" a substring.
   await expect(page).toHaveTitle(/Playwright/);
 });
