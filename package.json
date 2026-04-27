@@ -1,0 +1,23 @@
+{
+  "name": "730pl1231",
+  "version": "1.0.0",
+  "description": "730PL1231",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzpractice999/730PL1231.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xyzpractice999/730PL1231/issues"
+  },
+  "homepage": "https://github.com/xyzpractice999/730PL1231#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
